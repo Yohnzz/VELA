@@ -420,11 +420,11 @@
             color: var(--cream-text);
         }
 
-        .tips-image {
+/*         .tips-image {
             flex: 1;
             min-width: 300px;
             background: url('https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80') center/cover;
-        }
+        } */
 
         /* Testimonials */
         .testimonials {
@@ -790,4 +790,5 @@
   font-size: 12px;
   font-weight: bold;
 }
+
 
