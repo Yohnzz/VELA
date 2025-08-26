@@ -173,7 +173,7 @@
         .cta-button {
             background: var(--rich-brown);
             color: var(--creamy-beige);
-            border: none;
+            border: 10px solid yellow;
             padding: 12px 25px;
             border-radius: 30px;
             font-weight: 500;
@@ -790,5 +790,6 @@
   font-size: 12px;
   font-weight: bold;
 }
+
 
 
