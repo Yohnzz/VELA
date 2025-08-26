@@ -241,7 +241,7 @@
             font-size: 1.4rem;
             color: var(--cream-text);
             margin-bottom: 30px;
-            max-width: 600px;
+            max-width: 650px;
             margin-left: auto;
             margin-right: auto;
             animation: fadeInUp 1.2s ease;
@@ -790,3 +790,4 @@
   font-size: 12px;
   font-weight: bold;
 }
+
